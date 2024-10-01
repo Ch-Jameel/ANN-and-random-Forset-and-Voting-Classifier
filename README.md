@@ -1,2 +1,2 @@
-# ANN-and-random-Forset-and-Voting-Classifier
-our dataset was sensor stream dataset ,we have to predict the behaviour of human activity, So i used the different classification model for prediction of human activity.
+# Human Activity Prediction Using Sensor Stream Data
+This project focuses on predicting human activity using sensor stream data. The dataset consists of various sensor readings recorded over time, capturing different human activities. The aim is to classify these activities using multiple machine learning models, including Artificial Neural Networks (ANN), Random Forest, and a Voting Classifier.
